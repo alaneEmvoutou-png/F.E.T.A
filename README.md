@@ -1,2 +1,2 @@
-# F.E.T.A
+# FETA
 Web
