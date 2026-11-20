@@ -1,6 +1,3 @@
-Associ a ce code et envoie-moi une version prêt à être déployée 
-
-
 <!DOCTYPE html>
                         <html lang="en">
                         <head>
